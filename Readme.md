@@ -17,10 +17,10 @@ Single webpage about Paris
 - This is the url link for Hotels in Paris : https://www.introducingparis.com/hotels
 - Please just code what you see, neither less nor more.
 
-## The image overview
+## The desktop overview
 
 ![The overview](./images/overview.png "The general overview")
 
-## The onlive version
+## The online version
 
 In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Content_Exercise-1/)
